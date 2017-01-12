@@ -1,0 +1,13 @@
+Important Terminal Commands:
+  Git:
+    1. $ git clone "Insert http address obtained from git hub"
+      *** This will copy the git folder from git hub and save onto whatever directory you are currently in - shoot for desktop a of now ***
+    All of these next steps must be done sequentially in order to upload to git hub:
+    2. $ git add
+      *** This will add everything in the current directory to a 'cloud-like' space ***
+    3. $ git commit -m "Insert a message explaining why you are uploading these files.. or what files you are uploading"
+    4. $ git push
+      *** This will "push" everything up onto git hub account. i.e. everything currently in the 'cloud-like' space is uploaded onto git hub ***
+    5. $ git status
+      *** This shows you the current files that are in the 'cloud-like' space ***
+  
